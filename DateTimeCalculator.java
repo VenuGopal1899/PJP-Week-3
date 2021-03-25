@@ -31,7 +31,7 @@ class DateTimeCalculator {
 	}
 }
 
-public class DateTimeCalc{
+class DateTimeCalc{
 	public long diffDays;
 	public long diffWeeks;
 	public long diffMonths;
